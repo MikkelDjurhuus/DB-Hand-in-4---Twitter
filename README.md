@@ -1,9 +1,10 @@
 # DB-Hand-in-4---Twitter
 Mikkel Djurhuus &amp; Theis Rye
+
 How many Twitter users are in our database?
 659774
 
-Which Twitter users link the most to other Twitter users? (Provide the top ten.)
+### Which Twitter users link the most to other Twitter users? (Provide the top ten.)
 
 User | Nr of Links
 --- | ---
@@ -18,7 +19,7 @@ Karen230683 | 216
 keza34 | 211
 TraceyHewins | 202 
 
-Who is are the most mentioned Twitter users? (Provide the top five.)
+### Who is are the most mentioned Twitter users? (Provide the top five.)
 
 User | Mentions
 --- | ---
@@ -28,7 +29,7 @@ ddlovato | 3259
 DavidArchie | 1245
 Jonasbrothers | 1238
 
-Who are the most active Twitter users (top ten)?
+### Who are the most active Twitter users (top ten)?
 
 User | Nr of tweets
 --- | ---
@@ -43,7 +44,7 @@ what_bugs_u | 246
 Karen230683 | 238
 DarjPiano | 236
 
-Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? (Provide five users for each group)
+### Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? (Provide five users for each group)
 
 Negative
 
