@@ -1,0 +1,13 @@
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\Twitter.exe
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\Twitter.pdb
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Bson.dll
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Driver.dll
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Bson.xml
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Driver.xml
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\obj\Debug\Twitter.exe
+C:\Users\Theko\OneDrive\Dokumenter\GitHub\Twitter\Twitter\obj\Debug\Twitter.pdb
